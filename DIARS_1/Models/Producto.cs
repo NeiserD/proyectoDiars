@@ -12,5 +12,11 @@ namespace DIARS_1.Models
         public string Nombre { get; set; }
         public string Descripcion{ get; set; }
         public string UnidadMedida{ get; set; }
+
+
+        ///asdasdasdasd/
+        /////asdasd//
+        ////asd//
+        ////asdasd
     }
 }
