@@ -1,0 +1,138 @@
+﻿.footer {
+    background-color:black;
+    color:white;
+    height:80%;
+    font-size:20px;
+}
+.label {
+font-size:22px;
+font-family:Arial;
+}
+
+.paypal{
+    width: 20px;
+    height: 30px;
+}
+
+
+
+strong {
+    font-size:20px;
+}
+
+
+.imgLogo {
+    width: 40px;
+    height: 20px;
+    padding:30px;
+}
+
+.img {
+    width:65px;
+    height:40px;
+}
+
+.img1 {
+    width: 45px;
+    height: 45px;
+}
+.img2 {
+    width: 58px;
+    height: 50px;
+}
+.radius {
+    border-radius:9px;
+}
+
+
+
+/* Fixed/sticky icon bar (vertically aligned 50% from the top of the screen) */
+.icon-bar {
+    position: sticky;
+    border-radius: 8px;
+    right: 15px;
+    top: 55%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+/* Style the icon bar links */
+.icon-bar a {
+    display: inline;
+    border-radius: 8px;
+    text-align: center;
+    padding: 10px;
+    transition: all 0.3s ease;
+    color: white;
+    font-size: 20px;
+}
+
+    /* Style the social media icons with color, if you want */
+    .icon-bar a:hover {
+        background-color: white;
+    }
+
+.facebook {
+    background: #3B5998;
+    color: white;
+}
+
+.twitter {
+    background: rgb(148, 0, 104);
+    color: white;
+}
+
+.google {
+    background: #dd4b39;
+    color: white;
+}
+
+.gogle {
+    background: #13a000;
+    color: white;
+}
+
+.linkedin {
+    background: rgb(211, 57, 165);
+    color: white;
+}
+
+.youtube {
+    background: #bb0000;
+    color: white;
+}
+
+.sound {
+    background: #ff7112;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -14,9 +14,6 @@ namespace DIARS_1.Models
         public string UnidadMedida{ get; set; }
 
 
-        ///asdasdasdasd/
-        /////asdasd//
-        ////asd//
-        ////asdasd
+      
     }
 }
